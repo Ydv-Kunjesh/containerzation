@@ -1,0 +1,27 @@
+.container {
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.col-10 {
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    /* justify-content: center; */
+    align-items: center;
+    flex-direction: column;
+
+}
+
+main {
+    /* background: cadetblue !important; */
+
+}
+
+thead {
+    border: 1px solid #303054;
+    ;
+}

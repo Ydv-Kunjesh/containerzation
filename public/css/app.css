@@ -1,0 +1,56 @@
+ .navbar {
+     background-color: #303054;
+ }
+
+ #app {
+     background-color: #15154a;
+     /* height: 105vh; */
+
+ }
+
+ .py-4 {
+     height: 100vh;
+     display: flex;
+     align-items: center;
+ }
+
+ .navbar-brand {
+     color: #303054 !important;
+     font-weight: bold !important;
+ }
+
+ .nav-link {
+     color: #303054 !important;
+     font-weight: 550 !important;
+
+ }
+
+ .btn-primary {
+     background-color: #303054 !important;
+     border: #303054 !important;
+ }
+
+ .card-header {
+     text-align: center !important;
+     color: #303054 !important;
+     font-size: 1.6rem;
+
+ }
+
+ /* home
+  */
+
+ .usert {
+     width: 83% !important;
+ }
+
+ /* qr */
+ .qr {
+     height: 80vh;
+     display: flex;
+     justify-content: center;
+ }
+
+ img {
+     height: 10rem !important;
+ }
