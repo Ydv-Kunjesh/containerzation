@@ -6,8 +6,8 @@
                     <div class="col-one">
                         <h4><span class="orange">food</span>saver foundation</h4>
                         <p>Address : NSTI Dehradun .
-                        <p>Contact No : <a href="tel: +91 8604991151,6383814585">+91 7257961815</a></p>
-                        <p>Email : <a href="mailto:husainshamshad68@gmail.com">imkunjeshwork@gmail.com</a></p>
+                        <p>Contact No : <a href="tel: +91 7257961815">+91 7257961815</a></p>
+                        <p>Email : <a href="mailto:imkunjeshwork@gmail.com">imkunjeshwork@gmail.com</a></p>
                     </div>
                 </div>
                 <div class="col-lg-4">
@@ -26,14 +26,16 @@
                     <div class="col-one">
                         <h4>Social Media</h4>
                         <div class="social">
-                            <a href="#"><img
+                            <a href="https://www.facebook.com/kunjeshyadav.kunjeshyadav/"><img
                                     src="img/icons/facebook.png" alt="facebook"></a>
-                            <a href="#"><img src="img/icons/instagram.png" alt="inatagram"></a>
+                            <a href="https://www.instagram.com/ungraduate_bihari/?hl=en"><img 
+                                    src="img/icons/instagram.png" alt="instagram"></a>
                             <a href="#"><img
                                     src="img/icons/youtube.png" alt="youtube"></a>
-                            <a href="#"><img
+                            <a href="https://www.linkedin.com/in/kunjesh-ydv/"><img
                                     src="img/icons/linkedin.png " alt="linkedin"></a>
-                            <a href="mailto:imkunjeshwork@gmail.com"><img src="img/icons/gmail.png" alt="gnail"></a>
+                            <a href="mailto:imkunjeshwork@gmail.com"><img 
+                                    src="img/icons/gmail.png" alt="gmail"></a>
                         </div>
                         <p>Copyright &copy; 2023 | All Right Reserved</p>
                     </div>
